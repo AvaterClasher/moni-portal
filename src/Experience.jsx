@@ -62,7 +62,7 @@ export default function Experience() {
           <portalMaterial ref={portalMaterial} />
         </mesh>
         <Sparkles
-          size={6}
+          size={8}
           scale={[4, 2, 4]}
           position-y={1.4}
           speed={0.8}
